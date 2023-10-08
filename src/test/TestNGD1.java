@@ -24,6 +24,8 @@ public class TestNGD1 {
 	public void SecondTest()
 	{
 		System.out.println("Bye");
+		System.out.println("Bye Bye");
+		System.out.println("Bye Bye Bye");
 	}
 
 }
