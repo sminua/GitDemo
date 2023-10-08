@@ -26,6 +26,12 @@ public class TestNGD1 {
 		System.out.println("Bye");
 		System.out.println("Bye Bye");
 		System.out.println("Bye Bye Bye");
+		//changes
+		System.out.println("Bye4");
+		System.out.println("Bye5");
+		System.out.println("Bye6");
+		System.out.println("Bye7");
+		
 	}
 
 }

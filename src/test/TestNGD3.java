@@ -29,6 +29,7 @@ public class TestNGD3 {
 	public void WebLoginCar(String urlName)
 	{
 		System.out.println("Web Login Car");
+		System.out.println("Web Login Car 2");
 		System.out.println(urlName);
 		//selenium
 	}
