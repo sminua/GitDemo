@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-21T11:40:36 IST" name="Loan Department" finished-at="2023-09-21T11:40:36 IST" duration-ms="119">
+    <groups>
+      <group name="Smoke">
+        <method signature="TestNGD2.ThirdTest()[pri:0, instance:test.TestNGD2@73e9cf30]" name="ThirdTest" class="test.TestNGD2"/>
+        <method signature="TestNGD4.LoginHomeapi(java.lang.String,java.lang.String)[pri:0, instance:test.TestNGD4@771a660]" name="LoginHomeapi" class="test.TestNGD4"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-09-21T11:40:36 IST" name="Car Loan" finished-at="2023-09-21T11:40:36 IST" duration-ms="119">
+      <class name="test.TestNGD3">
+        <test-method is-config="true" signature="BSuite()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BSuite" finished-at="2023-09-21T11:40:36 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BSuite -->
+        <test-method is-config="true" signature="BClass()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BClass" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BClass -->
+        <test-method is-config="true" signature="BeforeEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BeforeEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method signature="MobileSigninCar()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="MobileSigninCar" finished-at="2023-09-21T11:40:36 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSigninCar -->
+        <test-method is-config="true" signature="AfterEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="AfterEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEvery -->
+        <test-method is-config="true" signature="BeforeEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BeforeEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method signature="MobileSignoutCar(java.lang.String,java.lang.String)[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="MobileSignoutCar" data-provider="getData" finished-at="2023-09-21T11:40:36 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetuname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignoutCar -->
+        <test-method is-config="true" signature="AfterEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="AfterEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEvery -->
+        <test-method is-config="true" signature="BeforeEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BeforeEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method signature="MobileSignoutCar(java.lang.String,java.lang.String)[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="MobileSignoutCar" data-provider="getData" finished-at="2023-09-21T11:40:36 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondsetuname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignoutCar -->
+        <test-method is-config="true" signature="AfterEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="AfterEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEvery -->
+        <test-method is-config="true" signature="BeforeEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="BeforeEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method signature="MobileSignoutCar(java.lang.String,java.lang.String)[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="MobileSignoutCar" data-provider="getData" finished-at="2023-09-21T11:40:36 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignoutCar -->
+        <test-method is-config="true" signature="AfterEvery()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="AfterEvery" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEvery -->
+        <test-method is-config="true" signature="AClass()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="AClass" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AClass -->
+        <test-method is-config="true" signature="ASuite()[pri:0, instance:test.TestNGD3@795509d9]" started-at="2023-09-21T11:40:36 IST" name="ASuite" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ASuite -->
+      </class> <!-- test.TestNGD3 -->
+    </test> <!-- Car Loan -->
+    <test started-at="2023-09-21T11:40:36 IST" name="Personal Loan" finished-at="2023-09-21T11:40:36 IST" duration-ms="112">
+      <class name="test.TestNGD2">
+        <test-method is-config="true" signature="preRequisite()[pri:0, instance:test.TestNGD2@73e9cf30]" started-at="2023-09-21T11:40:36 IST" name="preRequisite" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequisite -->
+        <test-method signature="ThirdTest()[pri:0, instance:test.TestNGD2@73e9cf30]" started-at="2023-09-21T11:40:36 IST" name="ThirdTest" finished-at="2023-09-21T11:40:36 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdTest -->
+      </class> <!-- test.TestNGD2 -->
+      <class name="test.TestNGD1">
+        <test-method signature="Demo()[pri:0, instance:test.TestNGD1@7d4f9aae]" started-at="2023-09-21T11:40:36 IST" name="Demo" finished-at="2023-09-21T11:40:36 IST" duration-ms="55" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at test.TestNGD1.Demo(TestNGD1.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="lastExecution()[pri:0, instance:test.TestNGD1@7d4f9aae]" started-at="2023-09-21T11:40:36 IST" name="lastExecution" finished-at="2023-09-21T11:40:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- test.TestNGD1 -->
+      <class name="test.TestNGD4">
+        <test-method signature="LoginHomeapi(java.lang.String,java.lang.String)[pri:0, instance:test.TestNGD4@771a660]" started-at="2023-09-21T11:40:36 IST" name="LoginHomeapi" finished-at="2023-09-21T11:40:36 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[personalloan.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginHomeapi -->
+      </class> <!-- test.TestNGD4 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
