@@ -9,6 +9,18 @@ public class TestNGD2 {
 	public void ThirdTest()
 	{
 		System.out.println("Good");
+		System.out.println("Good");
+		System.out.println("Good");
+		
+	}
+	
+	@Test(groups = {"Smoke"})
+	public void ThirdTest1()
+	{
+		System.out.println("Good1");
+		System.out.println("Good1");
+		System.out.println("Good1");
+		
 	}
 	
 	@BeforeTest

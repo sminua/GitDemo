@@ -21,6 +21,13 @@ public class TestNGD1 {
 	}
 	
 	@Test
+	public void TestDemo()
+	{
+		System.out.println("Hello");
+		Assert.assertTrue(false);
+	}
+	
+	@Test
 	public void SecondTest()
 	{
 		System.out.println("Bye");

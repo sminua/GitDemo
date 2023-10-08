@@ -14,6 +14,13 @@ public class TestNGD4 {
 	}
 	
 	@Test
+	public void WebHomelogin1()
+	{
+		System.out.println("Web Home Login1");
+		//selenium
+	}
+	
+	@Test
 	public void MobileHomeLogin()
 	{
 		System.out.println("Mobile Home login");
