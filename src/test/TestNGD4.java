@@ -27,6 +27,13 @@ public class TestNGD4 {
 		//Appium
 	}
 	
+	@Test
+	public void MobileHomeLogin1()
+	{
+		System.out.println("Mobile Home login1");
+		//Appium
+	}
+	
 	@Parameters({"URL","APIKey/uname"})
 	@Test(groups = {"Smoke"})
 	public void LoginHomeapi(String urlName,String key)
